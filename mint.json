@@ -65,8 +65,8 @@
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
-        "essentials/reusable-snippets".
-        "essentials/svelte-marked".
+        "essentials/reusable-snippets",
+        "svelte-marked"
       ]
     },
     {
