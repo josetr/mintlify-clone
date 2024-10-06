@@ -25,6 +25,13 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "tabs": [{
+      "name": "API Reference 2",
+      "openapi": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v3.0/api-with-examples.json",
+      "url": "api-reference",
+      "icon": "square-terminal"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -35,6 +42,11 @@
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
     }, {
       "name": "API Reference",
       "openapi": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v3.0/api-with-examples.json",
