@@ -27,7 +27,7 @@
   },
   "tabs": [{
       "name": "API Reference 2",
-      "openapi": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v3.0/api-with-examples.json",
+      "openapi": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v3.0/petstore-expanded.json",
       "url": "api-reference",
       "icon": "square-terminal"
     }
